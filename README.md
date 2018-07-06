@@ -2,3 +2,5 @@
 
 ## Day 0 : July 6 , 2018
 - Classification & Regression Models: K-Nearest Neighbors **#Theory** 
+
+## Day 1 : July 7 , 2018
