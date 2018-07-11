@@ -16,3 +16,5 @@
 - Classification Algorithms in various situations **#Theory** 
 
 ## Day 5 : July 11 , 2018
+- Classification Algorithms in various situations **#Theory** 
+- Outlier Detection **#Theory**
