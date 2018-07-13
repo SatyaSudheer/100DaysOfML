@@ -19,3 +19,11 @@
 - Classification Algorithms in various situations **#Theory** 
 - Outlier Detection **#Theory**
 - Forward & Backward Selection **#Theory**
+
+## Day 6 : July 12 , 2018
+- Classification Algorithms in various situations **#Theory** 
+- Missing Values Imputation **#Theory**
+
+## Day 7 : July 13 , 2018
+- Classification Algorithms in various situations **#Theory** 
+- Curse of Dimensionality **#Theory**
