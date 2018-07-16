@@ -27,3 +27,12 @@
 ## Day 7 : July 13 , 2018
 - Classification Algorithms in various situations **#Theory** 
 - Curse of Dimensionality **#Theory**
+
+## Day 8 : July 14 , 2018
+- Deep learning basics **#Theory**
+
+## Day 9 : July 15 , 2018
+- Deep learning basics **#Theory**
+
+## Day 10 : July 16 , 2018
+- Performance Measurement of models **#Theory**
