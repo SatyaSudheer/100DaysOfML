@@ -36,3 +36,18 @@
 
 ## Day 10 : July 16 , 2018
 - Performance Measurement of models **#Theory**
+
+## Day 11 : July 17 , 2018
+- R-Squared/Coefficient of determination **#Theory**
+- Median absolute deviation (MAD)  **#Theory**
+
+## Day 12 : July 18 , 2018
+- Laplace/Additive Smoothing  **#Theory**
+- Log-probabilities for numerical stability
+
+## Day 13 : July 18 , 2018
+- Bias and Variance tradeoff **#Theory**
+- Hyper Parameters
+- Feature importance and interpretability
+- Handling Numerical features (Gaussian NB)
+
