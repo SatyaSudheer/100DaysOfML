@@ -51,3 +51,15 @@
 - Feature importance and interpretability
 - Handling Numerical features (Gaussian NB)
 
+## Day 14 : July 19 , 2018
+
+## Day 15 : July 20 , 2018
+
+## Day 16 : July 21 , 2018
+
+## Day 17 : July 22 , 2018
+- Deeplearning series by 3Blue1Brown
+
+## Day 18 : July 23 , 2018
+
+## Day 19 : July 24 , 2018
