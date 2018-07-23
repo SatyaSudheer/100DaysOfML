@@ -61,5 +61,6 @@
 - Deeplearning series by 3Blue1Brown
 
 ## Day 18 : July 23 , 2018
+- Deep Learning Workshop: Playing with - Fashion MNIST - MLP (Multi Layer Perceptron)
 
 ## Day 19 : July 24 , 2018
