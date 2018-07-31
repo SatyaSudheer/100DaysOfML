@@ -52,10 +52,13 @@
 - Handling Numerical features (Gaussian NB)
 
 ## Day 14 : July 19 , 2018
+- Random youtube videos 
 
 ## Day 15 : July 20 , 2018
+- Random youtube videos 
 
 ## Day 16 : July 21 , 2018
+- Random youtube videos 
 
 ## Day 17 : July 22 , 2018
 - Deeplearning series by 3Blue1Brown
@@ -63,4 +66,34 @@
 ## Day 18 : July 23 , 2018
 - Deep Learning Workshop: Playing with - Fashion MNIST - MLP (Multi Layer Perceptron)
 
-## Day 19 : July 24 , 2018
+## Day 20 : July 24 , 2018
+- Logistic Regression
+
+## Day 21 : July 25 , 2018
+- Logistic Regression
+
+## Day 22 : July 26 , 2018
+- Logistic Regression
+
+## Day 23 : July 27 , 2018
+- Linear Regression
+
+## Day 24 : July 28 , 2018
+- Support Vector Machines (SVM)
+
+## Day 25 : July 29 , 2018
+- Support Vector Machines (SVM)
+
+## Day 26 : July 30 , 2018
+- Support Vector Machines (SVM)
+
+## Day 27 : July 31 , 2018
+- Decission Trees
+
+## Day 28 : August 1 , 2018
+
+## Day 29 : August 2 , 2018
+
+## Day 30 : August 3 , 2018
+
+## Day 31 : August 4 , 2018
