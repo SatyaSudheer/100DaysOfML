@@ -88,7 +88,7 @@
 - Support Vector Machines (SVM)
 
 ## Day 27 : July 31 , 2018
-- Decission Trees
+- Decision Trees
 
 ## Day 28 : August 1 , 2018
 
