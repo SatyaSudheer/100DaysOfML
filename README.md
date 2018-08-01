@@ -91,6 +91,7 @@
 - Decision Trees
 
 ## Day 28 : August 1 , 2018
+- Decision Trees
 
 ## Day 29 : August 2 , 2018
 
