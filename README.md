@@ -19,3 +19,15 @@
 | Data Mechanics              |             |
 
 - [ ] Hands On, Demostration, Any sort of outcomes! 
+- Chapter 3 - Predictive Analytics #Book 
+
+## Day 1 : September 2, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- [ ] Hands On, Demostration, Any sort of outcomes! 
