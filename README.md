@@ -15,7 +15,7 @@
 |-----------------------------|-------------|
 | Data Analysis               |             |
 | Data Modeling               |             |
-| Data Engineering            |             |
+| Data Engineering            | Azure for Machine Learning |
 | Data Mechanics              |             |
 
 - [ ] Hands On, Demostration, Any sort of outcomes! 
