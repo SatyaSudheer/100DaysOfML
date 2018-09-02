@@ -2,6 +2,8 @@
 
 ## Books Log: 
 - [ ] Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die Paperback – by Eric Siege
+- [ ] Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brain Mac Namee, Aiofe D'Arcy  
+
 
 ## Course Log: 
 - [ ] Intel Artificial Intelligence 501
@@ -31,3 +33,6 @@
 | Data Mechanics              |             |
 
 - [ ] Hands On, Demostration, Any sort of outcomes! 
+- Chapter 1 - Fundamentals of Machine Learning for Predictive Data Analytics #Book 
+    - Core Machine learning terminology 
+    - Lifecycle: CRISP-DM
