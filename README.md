@@ -20,7 +20,6 @@
 | Data Engineering            | Azure for Machine Learning |
 | Data Mechanics              |             |
 
-- [ ] Hands On, Demostration, Any sort of outcomes! 
 - Chapter 3 - Predictive Analytics #Book 
 
 ## Day 1 : September 2, 2018
@@ -32,7 +31,15 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- [ ] Hands On, Demostration, Any sort of outcomes! 
 - Chapter 1 - Fundamentals of Machine Learning for Predictive Data Analytics #Book 
     - Core Machine learning terminology 
     - Lifecycle: CRISP-DM
+
+## Day 2 : September 3, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
