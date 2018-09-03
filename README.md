@@ -43,3 +43,15 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Chapter 3 - Predictive Analytics #Book 
+- Reviewing week 1 of Intel Artificial Intelligence 501 #Course
+
+## Day 3 : September 4, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
