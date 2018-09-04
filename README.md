@@ -1,7 +1,7 @@
 # 100 Days Of ML - LOG
 
 ## Books Log: 
-- [X] Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die – by Eric Siege
+- [X] Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die by Eric Siege
 - [ ] Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brain Mac Namee, Aiofe D'Arcy  
 
 
