@@ -57,7 +57,7 @@
 | Data Mechanics              |             |
 
 - Reviewing week 2 & 3 of Intel Artificial Intelligence 501 #Course
-- Chapter 5 & 6 - Predictive Analytics #Book 
+- Chapter 5, 6 & 7 - Predictive Analytics #Book 
 
 ## Day 4 : September 5, 2018
 
