@@ -69,3 +69,12 @@
 | Data Mechanics              |             |
 
 - Reviewing week 4 of Intel Artificial Intelligence 501 #Course
+
+## Day 5 : September 6, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
