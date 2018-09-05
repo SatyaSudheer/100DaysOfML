@@ -67,3 +67,5 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Reviewing week 4 of Intel Artificial Intelligence 501 #Course
