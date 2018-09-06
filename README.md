@@ -6,7 +6,7 @@
 
 
 ## Course Log: 
-- [ ] Intel Artificial Intelligence 501
+- [X] Intel Artificial Intelligence 501
 - [ ] Intel Machine Learning 501
 - [ ] Intel Deep Learning 501
 - [ ] Intel TensorFlow 501
@@ -78,3 +78,5 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Reviewing week 5,6,7,8 of Intel Artificial Intelligence 501 #Course
