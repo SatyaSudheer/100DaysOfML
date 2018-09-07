@@ -80,3 +80,23 @@
 | Data Mechanics              |             |
 
 - Reviewing week 5,6,7,8 of Intel Artificial Intelligence 501 #Course
+
+## Day 6 : September 7, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing week 1 of Intel Machine Learning 501 #Course
+
+## Day 7 : September 8, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
