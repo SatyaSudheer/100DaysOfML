@@ -100,3 +100,25 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Random Youtube videos
+
+## Day 8 : September 9, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Random Youtube videos
+
+## Day 9 : September 10, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
