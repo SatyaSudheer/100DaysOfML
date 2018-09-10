@@ -126,3 +126,12 @@
 | Data Mechanics              |             |
 
 - Case Study: Personalised cancer diagnosis
+
+## Day 10 : September 11, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
