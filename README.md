@@ -126,7 +126,8 @@
 | Data Mechanics              |             |
 
 - Case Study: Personalised Cancer Diagnosis
-- 
+- Machine Learning with Python Cookbook: Chapter 1. Vectors, Matrices, and Arrays
+
 
 ## Day 10 : September 11, 2018
 
