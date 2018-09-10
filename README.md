@@ -4,7 +4,7 @@
 - [X] Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die by Eric Siege
 - [ ] Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brain Mac Namee, Aiofe D'Arcy  
 - [ ] Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning 1st Edition by Chris Albon
-
+- [ ] (https://chrisalbon.com/)[Technical Notes] On Using Data Science & Artificial Intelligence by Chris Albon
 
 ## Course Log: 
 - [X] Intel Artificial Intelligence 501
@@ -126,6 +126,7 @@
 | Data Mechanics              |             |
 
 - Case Study: Personalised cancer diagnosis
+- 
 
 ## Day 10 : September 11, 2018
 
