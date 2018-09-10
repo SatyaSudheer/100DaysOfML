@@ -3,6 +3,7 @@
 ## Books Log: 
 - [X] Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die by Eric Siege
 - [ ] Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brain Mac Namee, Aiofe D'Arcy  
+- [ ] Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning 1st Edition by Chris Albon
 
 
 ## Course Log: 
@@ -113,6 +114,7 @@
 | Data Mechanics              |             |
 
 - Random Youtube videos
+- Reviewing google ML crash course 
 
 ## Day 9 : September 10, 2018
 
@@ -122,3 +124,5 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Case Study: Personalised cancer diagnosis
