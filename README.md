@@ -125,7 +125,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- Case Study: Personalised cancer diagnosis
+- Case Study: Personalised Cancer Diagnosis
 - 
 
 ## Day 10 : September 11, 2018
