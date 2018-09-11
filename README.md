@@ -138,7 +138,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- Machine Learning with Python Cookbook: Chapter 2. Loading Data
+- Machine Learning with Python Cookbook: Chapter 2. Loading Data; Chapter 3. Data Wrangling
+
 
 ## Day 11 : September 12, 2018
 
