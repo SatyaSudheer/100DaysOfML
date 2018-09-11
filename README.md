@@ -138,6 +138,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Case Study: Personalised Cancer Diagnosis
 - Machine Learning with Python Cookbook: Chapter 2. Loading Data; Chapter 3. Data Wrangling
 
 
