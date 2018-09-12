@@ -151,6 +151,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Gone through random articles related to ML.
 
 ## Day 12 : September 13, 2018
 
