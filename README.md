@@ -184,6 +184,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Case Study: Personalised Cancer Diagnosis
+
 ## Day 15 : September 16, 2018
 
 | Area                        | Topics      |
