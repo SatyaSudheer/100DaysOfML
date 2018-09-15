@@ -162,6 +162,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Gone through random articles related to ML.
+
 ## Day 13 : September 14, 2018
 
 | Area                        | Topics      |
@@ -170,6 +172,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Gone through random articles related to ML.
 
 ## Day 14 : September 15, 2018
 
@@ -188,6 +192,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Gone through random articles related to ML.
 
 ## Day 16 : September 17, 2018
 
