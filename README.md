@@ -227,6 +227,7 @@
 | Data Mechanics              |             |
 
 - Case Study: Taxi Demand Prediction in New York City 
+    - Data Cleaning 
 
 ## Day 19 : October 2, 2018
 
@@ -237,6 +238,9 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Case Study: Taxi Demand Prediction in New York City 
+    - Data Preparation 
+    
 ## Day 20 : October 3, 2018
 
 | Area                        | Topics      |
