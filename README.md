@@ -240,7 +240,7 @@
 
 - Case Study: Taxi Demand Prediction in New York City 
     - Data Preparation 
-    
+
 ## Day 20 : October 3, 2018
 
 | Area                        | Topics      |
@@ -250,6 +250,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Case Study: Taxi Demand Prediction in New York City 
+     
 ## Day 21 : October 4, 2018
 
 | Area                        | Topics      |
@@ -259,15 +261,19 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Case Study: Taxi Demand Prediction in New York City 
+    
 ## Day 22 : October 5, 2018
 
 | Area                        | Topics      |
 |-----------------------------|-------------|
 | Data Analysis               |             |
 | Data Modeling               |             |
-| Data Engineering            |             |
+| Data Engineering            |  Docker     |
 | Data Mechanics              |             |
 
+- Digging into Data Science Tools: Docker
+ 
 ## Day 23 : October 6, 2018
 
 | Area                        | Topics      |
