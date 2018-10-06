@@ -283,6 +283,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Exploring Evolutionary architecture 
+
 ## Day 24 : October 7, 2018
 
 | Area                        | Topics      |
