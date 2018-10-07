@@ -403,3 +403,579 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+## Day 37 : October 20, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 38 : October 21, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 39 : October 22, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 40 : October 23, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 41 : October 24, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 42 : October 25, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 43 : October 26, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 44 : October 27, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 45 : October 28, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 46 : October 29, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 47 : October 30, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 48 : October 31, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 49 : November 01, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 50 : November 02, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 51 : November 03, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 52 : November 04, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 53 : November 05, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 54 : November 06, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 55 : November 07, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 56 : November 08, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 57 : November 09, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 58 : November 10, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 59 : November 11, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 60 : November 12, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 61 : November 13, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 62 : November 14, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 63 : November 15, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 64 : November 16, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 65 : November 17, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 66 : November 18, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 67 : November 19, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 68 : November 20, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 69 : November 21, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 70 : November 22, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 71 : November 23, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 72 : November 24, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 73 : November 25, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 74 : November 26, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 75 : November 27, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 76 : November 28, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 77 : November 29, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 78 : November 30, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 79 : December 01, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 80 : December 02, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 81 : December 03, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 82 : December 04, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 83 : December 05, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 84 : December 06, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 85 : December 07, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 86 : December 08, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 87 : December 09, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 88 : December 10, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 89 : December 11, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 90 : December 12, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 91 : December 13, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 92 : December 14, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 93 : December 15, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 94 : December 16, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 95 : December 17, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 96 : December 18, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 97 : December 19, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 98 : December 20, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 99 : December 21, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+## Day 100 : December 22, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
