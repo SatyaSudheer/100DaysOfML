@@ -294,6 +294,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- CPU vs GPU in Machine Learning
+
 ## Day 25 : October 8, 2018
 
 | Area                        | Topics      |
