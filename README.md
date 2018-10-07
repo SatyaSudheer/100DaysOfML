@@ -5,7 +5,7 @@
 - [ ] Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brain Mac Namee, Aiofe D'Arcy  
 - [ ] Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning 1st Edition by Chris Albon
 - [ ] [Technical Notes](https://chrisalbon.com/) On Using Data Science & Artificial Intelligence by Chris Albon
-- [] Feature Engineering for Machine Learning by by Amanda Casari, Alice Zheng
+- [ ] Feature Engineering for Machine Learning by by Amanda Casari, Alice Zheng
 
 
 ## Course Log: 
