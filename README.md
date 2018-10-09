@@ -305,6 +305,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Feature engineering - The Machine Learning Pipeline  
+
 ## Day 26 : October 9, 2018
 
 | Area                        | Topics      |
@@ -313,6 +315,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Feature engineering - Fancy Tricks with Simple Number
 
 ## Day 27 : October 10, 2018
 
