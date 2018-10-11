@@ -327,7 +327,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- CASE STUDY 4: MICROSOFT MALWARE DETECTION
+- CASE STUDY: MICROSOFT MALWARE DETECTION
 
 ## Day 28 : October 11, 2018
 
@@ -337,6 +337,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- CASE STUDY: MICROSOFT MALWARE DETECTION
 
 ## Day 29 : October 12, 2018
 
