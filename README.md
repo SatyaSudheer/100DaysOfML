@@ -360,6 +360,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- CASE STUDY: MICROSOFT MALWARE DETECTION
+
 ## Day 31 : October 14, 2018
 
 | Area                        | Topics      |
@@ -368,6 +370,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- CASE STUDY: MICROSOFT MALWARE DETECTION
 
 ## Day 32 : October 15, 2018
 
