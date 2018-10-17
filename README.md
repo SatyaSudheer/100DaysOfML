@@ -382,6 +382,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Case Study: Stackoverflow Tag Prediction 
+
 ## Day 33 : October 16, 2018
 
 | Area                        | Topics      |
@@ -390,6 +392,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Case Study: Stackoverflow Tag Prediction 
 
 ## Day 34 : October 17, 2018
 
