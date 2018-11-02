@@ -459,6 +459,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Case Study: Stackoverflow Tag Prediction 
+
 ## Day 40 : October 23, 2018
 
 | Area                        | Topics      |
@@ -467,6 +469,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Case Study: Stackoverflow Tag Prediction 
 
 ## Day 41 : October 24, 2018
 
