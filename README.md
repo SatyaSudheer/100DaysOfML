@@ -606,6 +606,7 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+- opening lecture for course 6.S099: Artificial General Intelligence
 
 ## Day 56 : November 08, 2018
 
