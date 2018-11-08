@@ -617,6 +617,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- MIT AGI: Computational Universe (Stephen Wolfram)
+
 ## Day 57 : November 09, 2018
 
 | Area                        | Topics      |
