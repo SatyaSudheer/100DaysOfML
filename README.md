@@ -682,14 +682,19 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Deep Learning Revolution
+
 ## Day 64 : November 16, 2018
 
 | Area                        | Topics      |
 |-----------------------------|-------------|
 | Data Analysis               |             |
 | Data Modeling               |             |
-| Data Engineering            |             |
+| Data Engineering            |   Google Cloud Platform          |
 | Data Mechanics              |             |
+
+- Deep Learning Revolution
+
 
 ## Day 65 : November 17, 2018
 
@@ -700,6 +705,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Deep Learning Revolution
+
 ## Day 66 : November 18, 2018
 
 | Area                        | Topics      |
@@ -708,6 +715,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Machine Learning with TensorFlow on Google Cloud Platform
 
 ## Day 67 : November 19, 2018
 
