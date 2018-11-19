@@ -702,7 +702,7 @@
 |-----------------------------|-------------|
 | Data Analysis               |             |
 | Data Modeling               |             |
-| Data Engineering            |             |
+| Data Engineering            |  Google Cloud Platform           |
 | Data Mechanics              |             |
 
 - Deep Learning Revolution
@@ -713,7 +713,7 @@
 |-----------------------------|-------------|
 | Data Analysis               |             |
 | Data Modeling               |             |
-| Data Engineering            |             |
+| Data Engineering            |  Google Cloud Platform           |
 | Data Mechanics              |             |
 
 - Machine Learning with TensorFlow on Google Cloud Platform
@@ -726,6 +726,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Machine Learning with TensorFlow on Google Cloud Platform
 
 ## Day 68 : November 20, 2018
 
