@@ -716,7 +716,7 @@
 | Data Engineering            |  Google Cloud Platform           |
 | Data Mechanics              |             |
 
-- Machine Learning with TensorFlow on Google Cloud Platform
+- Machine Learning with TensorFlow on Google Cloud Platform - How Google does Machine Learning
 
 ## Day 67 : November 19, 2018
 
@@ -727,7 +727,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- Machine Learning with TensorFlow on Google Cloud Platform
+- Machine Learning with TensorFlow on Google Cloud Platform - How Google does Machine Learning
 
 ## Day 68 : November 20, 2018
 
