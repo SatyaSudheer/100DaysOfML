@@ -1,6 +1,7 @@
 # 100 Days Of ML - LOG
 
 ## Books Log: 
+- [X] Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die by Eric Siege
 - [ ] Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brain Mac Namee, Aiofe D'Arcy  
 - [ ] Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning 1st Edition by Chris Albon
 - [ ] [Technical Notes](https://chrisalbon.com/) On Using Data Science & Artificial Intelligence by Chris Albon
@@ -8,6 +9,7 @@
 
 
 ## Course Log: 
+- [X] Intel Artificial Intelligence 501
 - [ ] Intel Machine Learning 501
 - [ ] Intel Deep Learning 501
 - [ ] Intel TensorFlow 501
