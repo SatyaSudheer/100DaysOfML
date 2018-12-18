@@ -14,6 +14,10 @@
 - [ ] Intel Deep Learning 501
 - [ ] Intel TensorFlow 501
 - [ ] MIT 6.S094: Deep Learning for Self-Driving Cars [link](https://selfdrivingcars.mit.edu/)
+- [ ] MIT 6.S099: Artificial General Intelligence [Link](https://agi.mit.edu/)
+- [ ] MIT 6.S091: Deep Reinforcement Learning
+
+
 
 ## Day 0 : December 18, 2018
 
