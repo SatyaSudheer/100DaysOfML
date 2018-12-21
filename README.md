@@ -50,4 +50,15 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- MIT 6.S094: Deep Learning for Self-Driving Cars: Lecture 2 - Deep Reinforcement Learning 
+- MIT 6.S094: Deep Learning for Self-Driving Cars: Lecture 3 - Deep Reinforcement Learning 
+
+## Day 3 : December 21, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- MIT 6.S094: Deep Learning for Self-Driving Cars: Lecture 4 - Computer Vision
