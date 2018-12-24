@@ -62,3 +62,36 @@
 | Data Mechanics              |             |
 
 - MIT 6.S094: Deep Learning for Self-Driving Cars: Lecture 4 - Computer Vision
+
+## Day 4 : December 22, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- MIT 6.S094: Deep Learning for Self-Driving Cars: Lecture 5 - Deep Learning for Human Sensing
+
+## Day 5 : December 23, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- MIT 6.S094: Deep Learning for Self-Driving Cars: Lecture 5 - Deep Learning for Human Sensing
+
+## Day 6 : December 24, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- MIT 6.S094: Deep Learning for Self-Driving Cars: Lecture 5 - Deep Learning for Human Sensing
