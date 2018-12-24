@@ -96,3 +96,4 @@
 
 - MIT 6.S094: Deep Learning for Self-Driving Cars: Lecture 5 - Deep Learning for Human Sensing
 - MIT 6.S094: Guest Talk by Sacha Arnoud, Director of Engineering, Waymo
+- MIT 6.S094: Guest Talk - nuTonomy Vision For Autonomous Driving by Emilio Frazzoli, CTO, nuTonomy. 
