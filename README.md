@@ -98,3 +98,12 @@
 - MIT 6.S094: Guest Talk by Sacha Arnoud, Director of Engineering, Waymo
 - MIT 6.S094: Guest Talk - nuTonomy Vision For Autonomous Driving by Emilio Frazzoli, CTO, nuTonomy
 - MIT 6.S094: Sterling Anderson, Co-Founder, Aurora. Previously: Director, Tesla Autopilot.
+
+## Day 7 : December 25, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
