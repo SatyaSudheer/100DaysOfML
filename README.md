@@ -6,7 +6,8 @@
 - [ ] Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning 1st Edition by Chris Albon
 - [ ] [Technical Notes](https://chrisalbon.com/) On Using Data Science & Artificial Intelligence by Chris Albon
 - [ ] Feature Engineering for Machine Learning by by Amanda Casari, Alice Zheng
-
+- [ ] Deep Learning with Python by François Chollet
+- [ ] Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 ## Course Log: 
 - [X] Intel Artificial Intelligence 501
@@ -107,3 +108,17 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Reviewing Python 
+
+## Day 8 : December 26, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing Python
+- Reviewing material from Master Datascience Paris Saclay
