@@ -122,3 +122,26 @@
 
 - Reviewing Python
 - Reviewing material from Master Datascience Paris Saclay
+
+## Day 9 : December 27, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing Python
+- Reviewing material from Master Datascience Paris Saclay
+
+## Day 10 : December 28, 2018
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing Python
