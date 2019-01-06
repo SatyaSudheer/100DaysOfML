@@ -244,3 +244,14 @@
 | Data Mechanics              |             |
 
 - MIT AGI: Cognitive Architecture (Nate Derbinsky)
+
+## Day 19 : January 06, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing CPP 
