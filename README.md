@@ -255,3 +255,14 @@
 | Data Mechanics              |             |
 
 - Reviewing CPP 
+
+## Day 20 : January 07, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing Probability  
