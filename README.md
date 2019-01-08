@@ -266,3 +266,14 @@
 | Data Mechanics              |             |
 
 - Reviewing Probability  
+
+## Day 21 : January 08, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing CPP 
