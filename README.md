@@ -277,3 +277,14 @@
 | Data Mechanics              |             |
 
 - Reviewing CPP 
+
+## Day 22 : January 09, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing CPP 
