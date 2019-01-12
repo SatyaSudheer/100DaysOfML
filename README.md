@@ -276,7 +276,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- Reviewing CPP 
+- Reviewing CPP: Language Basics - Tools, Variables & Fundamental Types 
 
 ## Day 22 : January 09, 2019
 
@@ -287,7 +287,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- Reviewing CPP 
+- Reviewing CPP: Language Basics - User Defined Types 
 
 ## Day 22 : January 09, 2019
 
@@ -298,7 +298,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- Reviewing CPP 
+- Reviewing CPP: Language Basics - Flow of Control 
 
 ## Day 23 : January 10, 2019
 
@@ -309,7 +309,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- Reviewing CPP 
+- Reviewing CPP: Language Basics - Functions 
 
 ## Day 24 : January 11, 2019
 
@@ -320,7 +320,7 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- Reviewing CPP 
+- Reviewing CPP: Language Basics - Operators 
 
 ## Day 25 : January 12, 2019
 
@@ -332,3 +332,4 @@
 | Data Mechanics              |             |
 
 - Deep Learning Basics: Introduction and Overview - MIT
+- Reviewing CPP: Templates  
