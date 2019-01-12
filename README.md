@@ -288,3 +288,47 @@
 | Data Mechanics              |             |
 
 - Reviewing CPP 
+
+## Day 22 : January 09, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing CPP 
+
+## Day 23 : January 10, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing CPP 
+
+## Day 24 : January 11, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing CPP 
+
+## Day 25 : January 12, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Deep Learning Basics: Introduction and Overview - MIT
