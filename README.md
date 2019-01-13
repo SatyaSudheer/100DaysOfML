@@ -333,3 +333,14 @@
 
 - Deep Learning Basics: Introduction and Overview - MIT
 - Reviewing CPP: Templates  
+
+## Day 26 : January 13, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing CPP: Indirection, Memory Mangement 
