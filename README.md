@@ -344,3 +344,26 @@
 | Data Mechanics              |             |
 
 - Reviewing CPP: Indirection, Memory Mangement 
+
+## Day 27 : January 14, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing Statistics 
+
+## Day 28 : January 15, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing Statistics 
+
