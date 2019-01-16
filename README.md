@@ -367,3 +367,14 @@
 
 - Reviewing Statistics 
 
+## Day 29 : January 16, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing Descriptive Statistics 
+
