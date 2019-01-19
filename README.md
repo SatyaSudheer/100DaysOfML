@@ -8,6 +8,7 @@
 - [ ] Feature Engineering for Machine Learning by by Amanda Casari, Alice Zheng
 - [ ] Deep Learning with Python by François Chollet
 - [ ] Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+- [ ] The Hundred Page Machine Learning Book by Andriy Burkov
 
 ## Course Log: 
 - [X] Intel Artificial Intelligence 501
