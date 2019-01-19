@@ -378,3 +378,36 @@
 
 - Reviewing Descriptive Statistics 
 
+## Day 30 : January 17, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Deep Learning State of the Art (2019) - MIT 
+
+## Day 31 : January 18, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- DARPA Grand Challenge (2004-5) driverless car competition (NOVA - The Great Robot Race) 
+
+## Day 32 : January 19, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Reviewing Descriptive Statistics 
+
