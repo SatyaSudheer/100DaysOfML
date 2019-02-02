@@ -557,4 +557,4 @@
 | Data Mechanics              |             |
 
 - Reviewing State of Self Driving 2019
-- Getting Started with OneFourthPadhai Course 
+- Getting Started with One Fourth Labs PadhAI Course 
