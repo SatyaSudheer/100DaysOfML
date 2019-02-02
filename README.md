@@ -520,6 +520,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL)
+
 ## Day 43 : January 30, 2019
 
 | Area                        | Topics      |
@@ -556,5 +558,5 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
-- Reviewing State of Self Driving 2019
+- MIT Self-Driving Cars: State of the Art (2019)
 - Getting Started with One Fourth Labs PadhAI Course 
