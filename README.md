@@ -560,3 +560,14 @@
 
 - MIT Self-Driving Cars: State of the Art (2019)
 - Getting Started with One Fourth Labs PadhAI Course 
+
+## Day 47 : Feburary 03, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- Getting Started with One Fourth Labs PadhAI Course 
