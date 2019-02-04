@@ -571,3 +571,14 @@
 | Data Mechanics              |             |
 
 - Getting Started with One Fourth Labs PadhAI Course 
+
+## Day 48 : Feburary 04, 2019
+
+| Area                        | Topics      |
+|-----------------------------|-------------|
+| Data Analysis               |             |
+| Data Modeling               |             |
+| Data Engineering            |             |
+| Data Mechanics              |             |
+
+- 6.S191: Introduction to Deep Learning 2018 - lecture 1
