@@ -727,6 +727,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+-  Oliver Cameron (CEO, Voyage) - MIT Self-Driving Cars
+
 ## Day 65 : Feburary 21, 2019
 
 | Area                        | Topics      |
