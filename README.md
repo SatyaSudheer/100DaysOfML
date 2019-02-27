@@ -792,6 +792,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- Karl Iagnemma & Oscar Beijbom (Aptiv Autonomous Mobility) - MIT Self-Driving Cars
+
 ## Day 72 : Feburary 28, 2019
 
 | Area                        | Topics      |
