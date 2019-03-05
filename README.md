@@ -830,6 +830,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- AI for everyone 
+
 ## Day 76 : March 04, 2019
 
 | Area                        | Topics      |
@@ -839,6 +841,8 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- AI for everyone 
+
 ## Day 77 : March 05, 2019
 
 | Area                        | Topics      |
@@ -847,6 +851,8 @@
 | Data Modeling               |             |
 | Data Engineering            |             |
 | Data Mechanics              |             |
+
+- Model: McCulloch Pitts Neuron
 
 ## Day 78 : March 06, 2019
 
