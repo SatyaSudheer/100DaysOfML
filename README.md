@@ -863,6 +863,9 @@
 | Data Engineering            |             |
 | Data Mechanics              |             |
 
+- AI for everyone 
+
+
 ## Day 79 : March 07, 2019
 
 | Area                        | Topics      |
